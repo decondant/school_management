@@ -98,3 +98,41 @@ footer{
 	width: 15%;
 	left: 5%;
 }
+.form_deg{
+	padding-top: 200px;
+}
+.label_deg{
+	display: inline-block;
+	color: skyblue;
+	width: 100px;
+	text-align: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+/*.login_form{
+	background-color: black;
+	width: 400px;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}*/
+.tittle_deg{
+	width: 400px;	
+	background-color: skyblue;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 20px;	
+}
+.body_deg{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+.login_form i{
+	position: absolute;
+	right: 10px;
+	top: 40px;
+}
+ 
